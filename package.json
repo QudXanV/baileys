@@ -1,7 +1,7 @@
 {
-  "name": "baileys",
-  "version": "6.7.4",
-  "description": "WhatsApp API",
+  "name": "qudbail",
+  "version": "6.7.20",
+  "description": "WhatsApp API By Qud",
   "keywords": [
     "whatsapp",
     "js-whatsapp",
@@ -12,9 +12,9 @@
     "automation",
     "multi-device"
   ],
-  "homepage": "https://github.com/WhiskeySockets/Baileys",
+  "homepage": "https://github.com/QudXanV/baileys",
   "repository": {
-    "url": "git@github.com:WhiskeySockets/Baileys.git"
+    "url": "git@github.com:QudXanV/baileys.git"
   },
   "license": "MIT",
   "author": "Adhiraj Singh",
