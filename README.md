@@ -1,4 +1,4 @@
-# WhatsApp Baileys
+# WhatsApp Baileys By @Biyalue2
 
 <p align="center">
   <img src="https://files.catbox.moe/6crb31.jpg" alt="Thumbnail" />
