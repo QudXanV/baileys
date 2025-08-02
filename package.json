@@ -1,6 +1,6 @@
 {
   "name": "qudbail",
-  "version": "6.7.20",
+  "version": "6.7.20.2",
   "description": "WhatsApp API By Qud",
   "keywords": [
     "whatsapp",
@@ -17,7 +17,7 @@
     "url": "git@github.com:QudXanV/baileys.git"
   },
   "license": "MIT",
-  "author": "Adhiraj Singh",
+  "author": "Qud XanVerius",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
