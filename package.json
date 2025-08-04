@@ -1,6 +1,6 @@
 {
   "name": "baileys",
-  "version": "6.7.4",
+  "version": "6.7.24",
   "description": "WhatsApp API",
   "keywords": [
     "whatsapp",
@@ -12,12 +12,12 @@
     "automation",
     "multi-device"
   ],
-  "homepage": "https://github.com/WhiskeySockets/Baileys",
+  "homepage": "https://github.com/QudXanV/baileys",
   "repository": {
-    "url": "git@github.com:WhiskeySockets/Baileys.git"
+    "url": "git@github.com:QudXanV/baileys.git"
   },
   "license": "MIT",
-  "author": "Adhiraj Singh",
+  "author": "QudXanV",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
